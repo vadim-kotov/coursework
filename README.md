@@ -7,3 +7,4 @@
 5. sudo ifconfig enx7cc2c642b186 0
 6. sudo vim /etc/network/interfaces
 7. sudo ifup enx7cc2c642b186 or sudo ifconfig enx7cc2c642b186 up
+8. add nameserver 8.8.8.8 to /etc/resolv.conf 
